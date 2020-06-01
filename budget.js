@@ -1,4 +1,4 @@
-/* www.youtube.com/CodeExplained */
+
 
 // SELECT ELEMENTS
 const balanceEl = document.querySelector(".balance .value");
